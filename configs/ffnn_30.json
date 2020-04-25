@@ -1,0 +1,10 @@
+{
+    "model_factory": "FFNModelFactory",
+    "preprocess": false,
+    "factory_params": {
+        "fixed_model_params": {
+            "n_input": 30,
+            "n_output": 1
+        }
+    }
+}

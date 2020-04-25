@@ -1,0 +1,10 @@
+{
+    "model_factory": "ConvLSTMModelFactory",
+    "preprocess": true,
+    "factory_params": {
+        "fixed_model_params": {
+            "n_input": 250,
+            "n_output": 1
+        }
+    }
+}

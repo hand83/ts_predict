@@ -1,0 +1,8 @@
+filters,kernel_size,padding,pool_size,conv_l2,conv_dropout,output_dropout,output_l2,mse_0
+4,5,same,5,0,0,0,20,1085.76273
+4,5,same,5,0,0,0,10,1087.306788
+4,5,same,5,0,0,0,50,1087.833077
+4,5,same,5,0,0,0,100,1089.769723
+4,5,same,5,0,0,0,200,1091.34362
+4,5,same,5,0,0,0,500,1093.251647
+4,5,same,5,0,0,0,700,1093.480198

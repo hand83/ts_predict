@@ -1,0 +1,5 @@
+filters,kernel_size,padding,pool_size,conv_l2,conv_dropout,output_dropout,output_l2
+15,5,same,20,0.0,0.0,0.0,0.0
+15,5,same,20,0.0,0.0,0.0,1.0
+15,5,same,20,0.0,0.0,0.0,10.0
+15,5,same,20,0.0,0.0,0.0,100.0
